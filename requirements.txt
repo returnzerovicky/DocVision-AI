@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers==4.46.3
+easyocr
+pytesseract
+opencv-python
+numpy
+pandas
+pillow
+streamlit
+matplotlib
+huggingface_hub
+sentencepiece
+tiktoken
