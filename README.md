@@ -272,6 +272,4 @@ https://github.com/returnzerovicky
 
 <div align="center">
 
-### ⭐ If you found this project useful, consider giving it a star.
-
 </div>
