@@ -260,9 +260,7 @@ Intermediate → Advanced
 
 # Author
 
-## Sharmila Rapeti
-
-Data Analyst @ Deloitte
+## Banoth Vikas
 
 Aspiring AI / ML Engineer
 
